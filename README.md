@@ -104,9 +104,7 @@ Push to your branch and open a Pull Request.
 
 
 
-📜 License
-This project is licensed under the MIT License.
-Feel free to use and modify as per your needs.
+
 
 
 
