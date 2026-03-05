@@ -1,6 +1,6 @@
 # 🌟 Nexora Frontend
 
-Welcome to **Nexora Frontend**, the client-side application for the Nexora Apartment Management & Rental Platform.  
+Welcome to **Nexora Frontend**, the client-side applications for the Nexora Apartment Management & Rental Platform.  
 This frontend is built with **React 19**, **Vite**, **Tailwind CSS 4**, **DaisyUI 5**, and **TanStack Query 5**, delivering a blazing‑fast, responsive, and interactive experience.
 
 ---
