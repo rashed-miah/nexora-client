@@ -53,7 +53,7 @@ This frontend is built with **React 19**, **Vite**, **Tailwind CSS 4**, **DaisyU
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/Programming-Hero-Web-Course4/b11a12-client-side-Tajuddin80.git
+git clone https://github.com/rashed-miah/nexora-client
 cd nexora-client
 
 
@@ -113,7 +113,7 @@ Feel free to use and modify as per your needs.
 💡 About
 Nexora is designed to simplify apartment management for owners, admins, and tenants, combining modern web tech and a sleek UI.
 
-💻 Frontend built with ❤️ by Taj Uddin.
+💻 Frontend built with ❤️ by Rashed.
 
 ---
 
